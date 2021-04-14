@@ -1,4 +1,5 @@
 {
+    // VSCODE SETTINGS
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "files.exclude": {
